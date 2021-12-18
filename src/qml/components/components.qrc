@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qml/components">
+    <file>qmldir</file>
+    <file>CustomSpinBox.qml</file>
+    <file>DoubleSpinBox.qml</file>
+  </qresource>
+</RCC>

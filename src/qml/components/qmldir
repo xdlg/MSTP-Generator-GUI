@@ -1,0 +1,3 @@
+module components
+CustomSpinBox 1.0 CustomSpinBox.qml
+DoubleSpinBox 1.0 DoubleSpinBox.qml
