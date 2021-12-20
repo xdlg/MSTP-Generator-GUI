@@ -1,3 +1,4 @@
 module components
 CustomSpinBox 1.0 CustomSpinBox.qml
 DoubleSpinBox 1.0 DoubleSpinBox.qml
+ScaleController 1.0 ScaleController.qml

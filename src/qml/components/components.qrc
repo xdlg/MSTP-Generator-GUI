@@ -3,5 +3,6 @@
     <file>qmldir</file>
     <file>CustomSpinBox.qml</file>
     <file>DoubleSpinBox.qml</file>
+    <file>ScaleController.qml</file>
   </qresource>
 </RCC>
